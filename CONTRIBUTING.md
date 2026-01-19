@@ -4,34 +4,34 @@
 
 ---
 
-## 🎯 Ways to Contribute
+## Ways to Contribute
 
 You don't need to be an expert! Here are ways anyone can help:
 
-### 1. 📝 Improve Documentation (Easiest!)
+### 1. Improve Documentation (Easiest!)
 - Fix typos or grammar
 - Make explanations clearer
 - Add examples to existing skills
 - Translate documentation to other languages
 
-### 2. 🐛 Report Issues
+### 2. Report Issues
 - Found something confusing? Tell us!
 - Skill not working? Let us know!
 - Have suggestions? We want to hear them!
 
-### 3. ✨ Create New Skills
+### 3. Create New Skills
 - Share your expertise as a skill
 - Fill gaps in the current collection
 - Improve existing skills
 
-### 4. 🧪 Test and Validate
+### 4. Test and Validate
 - Try skills and report what works/doesn't work
 - Test on different AI tools
 - Suggest improvements
 
 ---
 
-## 📝 How to Improve Documentation
+## How to Improve Documentation
 
 ### Super Easy Method (No Git Knowledge Needed!)
 
@@ -66,7 +66,7 @@ git push origin improve-docs
 
 ---
 
-## ✨ How to Create a New Skill
+## How to Create a New Skill
 
 ### What Makes a Good Skill?
 
@@ -212,7 +212,7 @@ git push origin my-branch
 
 ---
 
-## 🎨 Skill Template (Copy & Paste)
+## Skill Template (Copy & Paste)
 
 Save time! Copy this template:
 
@@ -300,7 +300,7 @@ description: "One sentence describing what this skill does and when to use it"
 
 ---
 
-## 🐛 How to Report Issues
+## How to Report Issues
 
 ### Found a Bug?
 
@@ -322,7 +322,7 @@ description: "One sentence describing what this skill does and when to use it"
 
 ---
 
-## ✅ Contribution Checklist
+## Contribution Checklist
 
 Before submitting your contribution:
 
@@ -336,7 +336,7 @@ Before submitting your contribution:
 
 ---
 
-## 📋 Commit Message Guidelines
+## Commit Message Guidelines
 
 Use these prefixes:
 
@@ -357,7 +357,7 @@ docs: add examples to react-best-practices
 
 ---
 
-## 🎓 Learning Resources
+## Learning Resources
 
 ### New to Git/GitHub?
 - [GitHub's Hello World Guide](https://guides.github.com/activities/hello-world/)
@@ -373,7 +373,7 @@ docs: add examples to react-best-practices
 
 ---
 
-## 💬 Need Help?
+## Need Help?
 
 - **Questions?** Open a [Discussion](https://github.com/sickn33/antigravity-awesome-skills/discussions)
 - **Stuck?** Open an [Issue](https://github.com/sickn33/antigravity-awesome-skills/issues)
@@ -381,13 +381,13 @@ docs: add examples to react-best-practices
 
 ---
 
-## 🌟 Recognition
+## Recognition
 
 All contributors are recognized in our [Contributors](https://github.com/sickn33/antigravity-awesome-skills/graphs/contributors) page!
 
 ---
 
-## 📜 Code of Conduct
+## Code of Conduct
 
 - Be respectful and inclusive
 - Welcome newcomers
@@ -396,6 +396,6 @@ All contributors are recognized in our [Contributors](https://github.com/sickn33
 
 ---
 
-**Thank you for making this project better for everyone!** 🙌
+**Thank you for making this project better for everyone!**
 
-Every contribution, no matter how small, makes a difference. Whether you fix a typo, improve a sentence, or create a whole new skill - you're helping thousands of developers! 🚀
+Every contribution, no matter how small, makes a difference. Whether you fix a typo, improve a sentence, or create a whole new skill - you're helping thousands of developers!
