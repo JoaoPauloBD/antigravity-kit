@@ -461,6 +461,8 @@ This collection would not be possible without the incredible work of the Claude 
 - **[webzler/agentMemory](https://github.com/webzler/agentMemory)**: Source for the agent-memory-mcp skill.
 - **[mvanhorn](https://github.com/mvanhorn)**: Contributor of `last30days`.
 - **[rookie-ricardo](https://github.com/rookie-ricardo)**: Contributor of `daily-news-report`.
+- **[sstklen/infinite-gratitude](https://github.com/sstklen/infinite-gratitude)**: Multi-agent research skill for parallel research execution (10 agents, real case studies, MIT).
+- **[sstklen/claude-api-cost-optimization](https://github.com/sstklen/claude-api-cost-optimization)**: Save 50-90% on Claude API costs with smart optimization strategies (MIT).
 
 ### Inspirations
 
